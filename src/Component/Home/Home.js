@@ -39,7 +39,7 @@ const Home = () => {
                             {/* </span> */}
                         </h2>
 
-                        <p>I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction. I’m not adding motion just to spruce things up, but doing it in ways that.</p>
+                        <p>Power of imagination with the good logical skills makes the perfect code for anything we want to build. Building that combination and being better at it by improving my knowledge and skills on daily basis.</p>
 
                         <div className='hero_btn d_flex'>
                             <div className='col_1'>
