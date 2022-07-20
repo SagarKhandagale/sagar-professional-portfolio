@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sagar-professional-portfolio/static/css/main.48615921.css",
-    "main.js": "/sagar-professional-portfolio/static/js/main.6579429e.js",
+    "main.js": "/sagar-professional-portfolio/static/js/main.46160d88.js",
     "static/js/787.28cb0dcd.chunk.js": "/sagar-professional-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuickSort1.png": "/sagar-professional-portfolio/static/media/QuickSort1.80c6746cd707d94c989d.png",
     "static/media/travel.jpeg": "/sagar-professional-portfolio/static/media/travel.1067beff25b9b808a608.jpeg",
@@ -35,11 +35,11 @@
     "static/media/java.png": "/sagar-professional-portfolio/static/media/java.375f91150aebfc2e19ef.png",
     "index.html": "/sagar-professional-portfolio/index.html",
     "main.48615921.css.map": "/sagar-professional-portfolio/static/css/main.48615921.css.map",
-    "main.6579429e.js.map": "/sagar-professional-portfolio/static/js/main.6579429e.js.map",
+    "main.46160d88.js.map": "/sagar-professional-portfolio/static/js/main.46160d88.js.map",
     "787.28cb0dcd.chunk.js.map": "/sagar-professional-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48615921.css",
-    "static/js/main.6579429e.js"
+    "static/js/main.46160d88.js"
   ]
 }
