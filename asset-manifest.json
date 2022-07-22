@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sagar-professional-portfolio/static/css/main.48615921.css",
-    "main.js": "/sagar-professional-portfolio/static/js/main.46160d88.js",
+    "main.js": "/sagar-professional-portfolio/static/js/main.771d19a0.js",
     "static/js/787.28cb0dcd.chunk.js": "/sagar-professional-portfolio/static/js/787.28cb0dcd.chunk.js",
     "static/media/QuickSort1.png": "/sagar-professional-portfolio/static/media/QuickSort1.80c6746cd707d94c989d.png",
     "static/media/travel.jpeg": "/sagar-professional-portfolio/static/media/travel.1067beff25b9b808a608.jpeg",
@@ -15,8 +15,8 @@
     "static/media/portfolio01.jpeg": "/sagar-professional-portfolio/static/media/portfolio01.7535c43f6567b242704a.jpeg",
     "static/media/rajma.jpeg": "/sagar-professional-portfolio/static/media/rajma.4f00acde27f5f7003941.jpeg",
     "static/media/hero.png": "/sagar-professional-portfolio/static/media/hero.cf35a3fcbaa719558d4b.png",
+    "static/media/SagarKhandagale.pdf": "/sagar-professional-portfolio/static/media/SagarKhandagale.5784818c7c182992ebc3.pdf",
     "static/media/FactorialByRecursion.png": "/sagar-professional-portfolio/static/media/FactorialByRecursion.2bf604c4dda382932471.png",
-    "static/media/SagarKhandagale.pdf": "/sagar-professional-portfolio/static/media/SagarKhandagale.d85d8ecc5c8961587a1a.pdf",
     "static/media/gokart.jpeg": "/sagar-professional-portfolio/static/media/gokart.081611f824df838484dc.jpeg",
     "static/media/portfolio05.jpeg": "/sagar-professional-portfolio/static/media/portfolio05.7b2140b1db7d6c8ee0eb.jpeg",
     "static/media/dipti.jpeg": "/sagar-professional-portfolio/static/media/dipti.1e1d7525342b6f7588f0.jpeg",
@@ -35,11 +35,11 @@
     "static/media/java.png": "/sagar-professional-portfolio/static/media/java.375f91150aebfc2e19ef.png",
     "index.html": "/sagar-professional-portfolio/index.html",
     "main.48615921.css.map": "/sagar-professional-portfolio/static/css/main.48615921.css.map",
-    "main.46160d88.js.map": "/sagar-professional-portfolio/static/js/main.46160d88.js.map",
+    "main.771d19a0.js.map": "/sagar-professional-portfolio/static/js/main.771d19a0.js.map",
     "787.28cb0dcd.chunk.js.map": "/sagar-professional-portfolio/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48615921.css",
-    "static/js/main.46160d88.js"
+    "static/js/main.771d19a0.js"
   ]
 }
